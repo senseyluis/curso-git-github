@@ -1,2 +1,4 @@
 cd -> move arquivos
 ls -> lista arquivos
+cat -> exibe conteudo do arquivo
+rm -> remove arquivo ou diretorio
