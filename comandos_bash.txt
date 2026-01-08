@@ -1,0 +1,2 @@
+cd -> move arquivos
+ls -> lista arquivos
